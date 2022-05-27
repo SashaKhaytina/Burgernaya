@@ -1,0 +1,17 @@
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\bin\Debug\Проект_заказ.exe.config
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\bin\Debug\Проект_заказ.exe
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\bin\Debug\Проект_заказ.pdb
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.csproj.AssemblyReference.cache
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.Form1.resources
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.Properties.Resources.resources
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.csproj.GenerateResource.cache
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.exe
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.pdb
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.Form2.resources
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.Form3.resources
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.Form4.resources
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.Form5.resources
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.Form6.resources
+C:\Users\Юрий\source\repos\Проект_заказ\Проект_заказ\obj\Debug\Проект_заказ.Form7.resources
